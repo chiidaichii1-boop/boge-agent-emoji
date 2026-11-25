@@ -1,8 +1,8 @@
 # Your Agent in One Emoji
 
 [![bounty](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/rank/chiidaichii1-boop/boge-agent-emoji-2.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/reward/chiidaichii1-boop/boge-agent-emoji-2.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/chiidaichii1-boop/boge-agent-emoji/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/chiidaichii1-boop/boge-agent-emoji/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 
 Bounty: https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4
 
